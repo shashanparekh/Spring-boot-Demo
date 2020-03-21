@@ -1,0 +1,1 @@
+Spring Boot application(part-1)->spring core annotation is used for java application using java spring boot framework
